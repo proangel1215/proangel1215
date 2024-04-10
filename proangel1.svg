@@ -1,4 +1,4 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg336303" viewBox="0 0 1024 400" height="400px" width="1024px" version="1.1">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg336303" viewBox="0 0 1024 200" height="200px" width="1024px" version="1.1">
   <metadata id="metadata336309">
     <rdf:rdf>
       <cc:work rdf:about="">
@@ -19,7 +19,7 @@
   </linearGradient>
   <g id="logo-group">
     <image xlink:href="" id="container" x="272" y="144" width="480" height="480" transform="translate(0 0)" style="display: none;"></image>
-    <g id="logo-center" transform="translate(0 -150)">
+    <g id="logo-center" transform="translate(0 -280)">
       <image xlink:href="" id="icon_container" style="display: none;"></image>
       <g id="slogan" style="font-style:oblique;font-weight:700;font-size:32px;line-height:1;font-family:Averta;font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)">
         <path id="path336311" style="font-style:oblique;font-weight:700;font-size:32px;line-height:1;font-family:Averta;font-variant-ligatures:none;text-align:center;text-anchor:middle" d="M 380.09375,-22.72 377.30975,0 h 5.024 l 0.992,-8.288 h 7.392 l 0.512,-4.512 h -7.328 l 0.672,-5.344 h 8.896 l 0.576,-4.576 z" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#153952" stroke="#153952" transform="translate(-1.1368683772161603e-13 374.73019999999997) translate(359.4086 53.104) scale(0.9) translate(-377.30975 22.72)"></path>
