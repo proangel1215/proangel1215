@@ -1,1 +1,1 @@
-<img src="./proangel.svg" style="background: #333;">
+<img src="./proangel.svg" style="max-width: 100%;">
